@@ -1,0 +1,8 @@
+.tabuleiro {
+    width: 408px;
+    height: 408px;
+    border: 5px solid yellowgreen;
+
+    display: flex;
+    flex-wrap: wrap;
+}
